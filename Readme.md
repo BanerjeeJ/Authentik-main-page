@@ -1,1 +1,1 @@
-![Alt text](D:\Ads-session 2\Screenshot (167).png"The main page")
+![Alt text](</Screenshot%20(167).png> "The main page")
